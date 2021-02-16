@@ -16,7 +16,7 @@ Cite as: Phys. Fluids 32, 117104 (2020); https://doi.org/10.1063/5.0027525
 
 Submitted: 31 August 2020 . Accepted: 30 October 2020 . Published Online: 12 November 2020
 
-Menyang Gong (宫门阳), Yupei Qiao (乔玉配), Jun Lan (蓝君), and Xiaozhou Liu (刘晓宙)
+Menyang Gong, Yupei Qiao, Jun Lan, and Xiaozhou Liu
 
 ## Calculation of acoustic radiation force on abdominal wall tissue induced by ultrasound using the k-Wave Toolbox
 
