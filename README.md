@@ -18,10 +18,10 @@ Submitted: 31 August 2020 . Accepted: 30 October 2020 . Published Online: 12 Nov
 
 Menyang Gong (宫门阳), Yupei Qiao (乔玉配), Jun Lan (蓝君), and Xiaozhou Liu (刘晓宙)
 
-## 利用k-Wave计算超声在腹壁组织的声辐射力
+## Calculation of acoustic radiation force on abdominal wall tissue induced by ultrasound using the k-Wave Toolbox
 
 Cite as: Journal of Applied Acoustics Vol. 40, No. 1;  https://doi.org/10.11684/j.issn.1000-310X.2021.01.010
 
 Published Online: January, 2021
 
-乔玉配 宫门阳 汪海宾 李楠 刘杰惠 毛一葳 何爱军 刘晓宙
+QIAO Yupei, GONG Menyang, WANG Haibin, LI Nan, LIU Jiehui, MAO Yiwei, HE Aijun, and LIU Xiaozhou
