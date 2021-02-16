@@ -24,4 +24,4 @@ Cite as: Journal of Applied Acoustics Vol. 40, No. 1;  https://doi.org/10.11684/
 
 Published Online: January, 2021
 
-QIAO Yupei, GONG Menyang, WANG Haibin, LI Nan, LIU Jiehui, MAO Yiwei, HE Aijun, and LIU Xiaozhou
+Yupei Qiao, Menyang Gong, Haibin Wang, Nan Li, Jiehui Liu, Yiwei Mao, Aijun He, and Xiaozhou Liu
