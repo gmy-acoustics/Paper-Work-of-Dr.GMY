@@ -25,3 +25,11 @@ Cite as: Journal of Applied Acoustics Vol. 40, No. 1;  https://doi.org/10.11684/
 Published Online: January, 2021
 
 Yupei Qiao, Menyang Gong, Haibin Wang, Nan Li, Jiehui Liu, Yiwei Mao, Aijun He, and Xiaozhou Liu
+
+## Acoustic radiation force on a free elastic sphere in a viscous fluid: Theory and experiments
+
+Cite as: Phys. Fluids 33, 047107 (2021); https://doi.org/10.1063/5.0041249
+
+Submitted: 21 December 2020 . Accepted: 23 March 2021 . Published Online: 12 April 2021
+
+Yupei Qiao, Menyang Gong, Haibin Wang, Jun Lan, Teng Liu, Jiehui Liu, Yiwei Mao, Aijun He, and Xiaozhou Liu
