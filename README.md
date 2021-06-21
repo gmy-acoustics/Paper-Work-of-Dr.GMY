@@ -33,3 +33,11 @@ Cite as: Phys. Fluids 33, 047107 (2021); https://doi.org/10.1063/5.0041249
 Submitted: 21 December 2020 . Accepted: 23 March 2021 . Published Online: 12 April 2021
 
 Yupei Qiao, Menyang Gong, Haibin Wang, Jun Lan, Teng Liu, Jiehui Liu, Yiwei Mao, Aijun He, and Xiaozhou Liu
+
+## Non-diffractive acoustic beams produce negative radiation force in certain regions
+
+Cite as: AIP Advances 11, 065029 (2021); https://doi.org/10.1063/5.0056692
+
+Submitted: 13 May 2021 . Accepted: 03 June 2021 . Published Online: 18 June 2021
+
+Menyang Gong, Yupei Qiao, Zhonghan Fei, Yuanyuan Li, Jiehui Liu, Yiwei Mao, Aijun He, and Xiaozhou Liu
