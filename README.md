@@ -6,7 +6,7 @@ Paper Work of Dr.GMY
 
 Cite as: AIP Advances 12, 075312 (2022); https://doi.org/10.1063/5.0099843
 
-Submitted: 19 May 2022 • Accepted: 23 June 2022 • Published Online: 13 July 2022
+Submitted: 19 May 2022 . Accepted: 23 June 2022 . Published Online: 13 July 2022
 
 Yuanyuan Li, Jiancheng Liu, Zhaoyu Deng, Menyang Gong, Kunqi Huang, Yun Lai, and Xiaozhou Liu
 
