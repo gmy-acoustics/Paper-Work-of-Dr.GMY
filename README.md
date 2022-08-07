@@ -2,6 +2,14 @@
 
 Paper Work of Dr.GMY
 
+## Acoustic three-terminal controller with amplitude control for nonlinear seismic metamaterials
+
+Cite as: AIP Advances 12, 075312 (2022); https://doi.org/10.1063/5.0099843
+
+Submitted: 19 May 2022 • Accepted: 23 June 2022 • Published Online: 13 July 2022
+
+Yuanyuan Li, Jiancheng Liu, Zhaoyu Deng, Menyang Gong, Kunqi Huang, Yun Lai, and Xiaozhou Liu
+
 ## Acoustic radiation force and motion of a free cylinder in a viscous fluid with a boundary defined by a plane wave incident at an arbitrary angle
 
 Cite as: J. Appl. Phys. 128, 044902 (2020); https://doi.org/10.1063/5.0005866
