@@ -50,3 +50,8 @@ Submitted: 19 May 2022 . Accepted: 23 June 2022 . Published Online: 13 July 2022
 
 Yuanyuan Li, Jiancheng Liu, Zhaoyu Deng, Menyang Gong, Kunqi Huang, Yun Lai, and Xiaozhou Liu
 
+## An Acoustic Flat Lens for Broadband Focusing via Cross-Shape Structure
+
+Cite as: Micromachines 14(1):12 (2023); https://doi.org/10.3390/mi14010012
+
+Submitted: 30 November 2022 . Accepted: 17 December 2022 . Published Online: 21 December 2022
