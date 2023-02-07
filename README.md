@@ -64,7 +64,7 @@ Shenlian Gao, Qinglei Zeng, Mengyang Gong, Jun Lan and Xiaozhou Liu
 
 Cite as: The Journal of the Acoustical Society of America 153, 812 (2023); https://doi.org/10.1121/10.0017113
 
-Submitted: 3 November 2022 . Accepted: 15 January 2023 . Published online: 2 February 2023
+Submitted: 03 November 2022 . Accepted: 15 January 2023 . Published online: 02 February 2023
 
 Menyang Gong, Xin Xu, Zhonghan Fei, Yuanyuan Li, Teng Liu, Shenlian Gao, Jiehui Liu, Aijun He, and Xiaozhou Liu
 
