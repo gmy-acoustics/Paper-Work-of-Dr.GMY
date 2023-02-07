@@ -67,3 +67,11 @@ Cite as: The Journal of the Acoustical Society of America 153, 812 (2023); https
 Submitted: 3 November 2022 . Accepted: 15 January 2023 . Published online: 2 February 2023
 
 Menyang Gong, Xin Xu, Zhonghan Fei, Yuanyuan Li, Teng Liu, Shenlian Gao, Jiehui Liu, Aijun He, and Xiaozhou Liu
+
+## Scheme of non-contact manipulation: Acoustic radiation force on spherical particle in a spherical shell structure
+
+Cite as: Results in Physics 46, 106264 (2023); https://doi.org/10.1016/j.rinp.2023.106264
+
+Submitted: 29 November 2022 . Accepted: 03 February 2023 . Published Online: 06 February 2023
+
+Menyang Gong, Xin Xu, Yupei Qiao, Zhonghan Fei, Yuanyuan Li, Jiehui Liu, Aijun He and Xiaozhou Liu
