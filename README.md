@@ -68,6 +68,14 @@ Submitted: 03 November 2022 . Accepted: 15 January 2023 . Published online: 02 F
 
 Menyang Gong, Xin Xu, Zhonghan Fei, Yuanyuan Li, Teng Liu, Shenlian Gao, Jiehui Liu, Aijun He, and Xiaozhou Liu
 
+## Theoretical prediction of the scattering of spherical bubble clusters under ultrasonic excitation
+
+Cite as: Ultrasonics Sonochemistry 94, 106308 (2023); https://doi.org/10.1016/j.ultsonch.2023.106308
+
+Submitted: 08 November 2022 . Accepted: 20 January 2023 . Published Online: 03 February 2023
+
+Xin Xu, Menyang Gong and Xiaozhou Liu
+
 ## Scheme of non-contact manipulation: Acoustic radiation force on spherical particle in a spherical shell structure
 
 Cite as: Results in Physics 46, 106264 (2023); https://doi.org/10.1016/j.rinp.2023.106264
