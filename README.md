@@ -98,4 +98,4 @@ Cite as: AIP Advances 13, 095016 (2023); https://doi.org/10.1063/5.0152600
 
 Submitted: 6 April 2023 . Accepted: 25 August 2023 . Published Online: 15 September 2023
 
-Zhonghan Fei, Jun Lan, Menyang Gong, Yun Lai, and Xiaozhou Liu
+Zhonghan Fei, Jun Lan, Menyang Gong, Yun Lai and Xiaozhou Liu
