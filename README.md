@@ -58,7 +58,7 @@ Cite as: Micromachines 14(1):12 (2023); https://doi.org/10.3390/mi14010012
 
 Submitted: 30 November 2022 . Accepted: 17 December 2022 . Published Online: 21 December 2022
 
-Shenlian Gao, Qinglei Zeng, Mengyang Gong, Jun Lan and Xiaozhou Liu
+Shenlian Gao, Qinglei Zeng, Menyang Gong, Jun Lan and Xiaozhou Liu
 
 ## Non-invasive manipulation scheme of spherical particle in viscous fluids in a tube based on acoustic radiation force
 
