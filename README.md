@@ -107,7 +107,7 @@ Zhonghan Fei, Jun Lan, **Menyang Gong**, Yun Lai and Xiaozhou Liu.
 
 Cite as: Chinese Physics B, 2023; https://doi.org/10.1088/1674-1056/acfa80
 
-Accepted Manuscript online: 18 September 2023.
+Submitted: 1 August 2023. Accepted manuscript online: 18 September 2023.
 
 **Menyang Gong**, Xin Xu, Yupei Qiao, Jiehui Liu, Aijun He and Xiaozhou Liu.
 
