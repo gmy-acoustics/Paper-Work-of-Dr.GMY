@@ -118,3 +118,19 @@ Cite as: Physics of Fluids 35, 107117 (2023); https://doi.org/10.1063/5.0170190
 Submitted: 1 August 2023. Accepted: 25 September 2023. Published Online: 11 October 2023.
 
 **Menyang Gong**, Yupei Qiao, Xin Xu, Jiehui Liu, Aijun He, Xiaozhou Liu.
+
+### [Realization of acoustic tunable logic gate composed of soft materials](https://doi.org/10.1016/j.rinp.2024.107421)
+
+Cite as: Results in Physics 57, 107421 (2024); https://doi.org/10.1016/j.rinp.2023.106264
+
+Submitted: 25 December 2023. Accepted: 29 January 2024. Published Online: 1 February 2024.
+
+Yuanyuan Li, Kunqi Huang, **Menyang Gong**, Chenghao Sun, Shenlian Gao, Yun Lai, Xiaozhou Liu.
+
+### [Rupture of membranous microbubbles induced by pulsed acoustic wave](https://doi.org/10.1063/5.0189850)
+
+Cite as: Physics of Fluids 36, 027111 (2024); https://doi.org/10.1063/5.0189850
+
+Submitted: 1 December 2023. Accepted: 12 January 2024. Published Online: 6 February 2024.
+
+**Menyang Gong**, Xin Xu, Zhonghan Fei, Yuanyuan Li, Shenlian Gao, Yupei Qiao, Jiehui Liu, Teng Ma, Xiaozhou Liu.
