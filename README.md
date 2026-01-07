@@ -8,6 +8,18 @@ https://orcid.org/0000-0002-2765-3867
 
 ## 2020-2025
 ### 2025
+[22] [Numerical prediction of particle motion trajectory under the action of acoustic radiation force](https://doi.org/10.1117/12.3084431)
+
+Cite as: Fourth International Conference on New Materials, Machinery, and Vehicle Engineering (NMMVE 2025). SPIE, 2025, 13953: 821-827; https://doi.org/10.1117/12.3084431
+
+Yupei Qiao, Meimei Zhao, **Menyang Gong**, Chen Liu, Jinfu Liang, Lijun Pang
+
+[21] [The mechanism of the acoustic radiation force on a free elastic cylinder in a bounded viscous fluid](https://doi.org/10.1117/12.3084335)
+
+Cite as: Fourth International Conference on New Materials, Machinery, and Vehicle Engineering (NMMVE 2025). SPIE, 2025, 13953: 809-820; https://doi.org/10.1117/12.3084335
+
+Yupei Qiao, Meimei Zhao, **Menyang Gong**, Chen Liu, Jinfu Liang
+
 [20] [Unveiling the frequency-dependent dynamics of acoustic radiation force on lipid-coated ultrasound bubbles](https://doi.org/10.1063/5.0282881)
 
 Cite as: Physics of Fluids 37(8) 087196 (2025); https://doi.org/10.1063/5.0282881
