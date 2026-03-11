@@ -8,6 +8,11 @@ https://orcid.org/0000-0002-2765-3867
 
 ## 2020-2025
 ### 2025
+[23] [Experimental study of the acoustic radiation force on a spherical particle in a pipe under focused sound wave incidence](http://doi.org/10.12395/0371-0025.2025258)
+Cite as: Acta Acustica 50(6) 1404-1411 (2025); http://doi.org/10.12395/0371-0025.2025258
+
+Minghao Wang, Zhijie Sun, **Menyang Gong**, Tianyu Gu, Xiaozhou Liu
+
 [22] [Numerical prediction of particle motion trajectory under the action of acoustic radiation force](https://doi.org/10.1117/12.3084431)
 
 Cite as: Fourth International Conference on New Materials, Machinery, and Vehicle Engineering (NMMVE 2025). SPIE, 2025, 13953: 821-827; https://doi.org/10.1117/12.3084431
